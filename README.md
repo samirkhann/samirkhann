@@ -1,286 +1,129 @@
 <div align="center">
+  <br />
+  <h1 style="font-size: 3em; font-weight: bold;">SAMIR KHAN</h1>
+  <h3 style="color: #94a3b8;">Software Engineer | Distributed Systems | AI Infrastructure</h3>
+  
+  <p style="color: #cbd5e1;">
+    <b>MS Computer Science @ Northeastern University</b> (GPA: 3.77)<br>
+    Based in Boston, MA
+  </p>
 
-# I'm Samir Khan
-
-### Software Engineer | CS Master's @ Northeastern | Building AI & Distributed Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samirkhann)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://samirkhann.github.io)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan.mohameds@northeastern.edu)
-```
-🔍 Actively seeking Summer 2026 Software Engineering Internships
-📍 Boston, MA • Open to relocation anywhere in the US
-🎓 MS Computer Science @ Northeastern (GPA: 3.77) | Expected Dec 2026
-💼 1.5 years professional SWE experience | Published AI researcher
-```
-
+  <p>
+    <a href="https://linkedin.com/in/samirkhann">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    </a>
+    <a href="https://samirkhann.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:khan.mohameds@northeastern.edu">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+    <a href="https://github.com/samirkhann">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+  
+  <br />
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ Executive Summary
 
-I'm a **Software Engineer** and **Computer Science Master's student** passionate about building **systems that scale**. With 1.5 years of professional experience shipping production code, I specialize in **distributed systems**, **real-time applications**, and **AI/ML infrastructure**.
+I am a **Software Engineer** aiming for the intersection of **Distributed Systems** and **Applied AI**. [cite_start]Currently pursuing my MS in Computer Science at Northeastern University[cite: 11].
 
-**What I've built:**
-- 🤖 AI-powered platforms serving 50+ enterprises with 70% auto-resolution
-- ⚡ Real-time data pipelines processing **50,000+ events/second** with sub-500ms latency
-- 🌐 Distributed systems with **fault-tolerant replication** and consensus algorithms
-- 📊 Optimized production databases reducing **API latency by ~30%**
-- 🔬 **Published research** on blockchain voting systems in peer-reviewed journal
-
-**Currently working on:**
-- Building AI applications on Cloudflare's edge network with Workers AI
-- Exploring multi-model LLM orchestration and agentic AI systems
-- Distributed systems research including Raft consensus and primary-backup replication
+* [cite_start]**Experience:** 1.5+ years building production microservices and scalable APIs[cite: 18].
+* [cite_start]**Scale:** Engineered pipelines processing **50k+ events/sec** with sub-500ms latency[cite: 33].
+* [cite_start]**Optimization:** Reduced production API latency by **~30%** via database schema tuning[cite: 19].
+* [cite_start]**Research:** Published author on Blockchain/E-Voting systems[cite: 43].
 
 ---
 
-## 💻 Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Data & ML/AI
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## 🏗️ Featured Projects
-
-### [🤖 Cloudflare AI Study Assistant](https://github.com/samirkhann/cloudflare-ai-study-assistant) 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=flat-square)](https://main.ai-study-assistant.pages.dev)
-
-> AI-powered study platform built entirely on Cloudflare's edge network
-
-**Stack:** Workers AI (Llama 3.3 70B), Durable Objects, Next.js, TypeScript
-
-- Serverless architecture with globally distributed deployment across 330+ cities
-- Sub-50ms response latency through edge computing
-- Persistent conversation memory using Durable Objects
-- Production-quality UI with real-time streaming
-
-### [⚡ Consilium AI - Multi-Model Orchestration](https://github.com/samirkhann/consilium-ai)
-
-> Premium interface coordinating responses from 4 frontier AI models
-
-**Stack:** React, Next.js, Gemini API, TypeScript
-
-- Parallel API orchestration across multiple LLM providers
-- Real-time response aggregation and consensus generation
-- TypeScript backend with concurrent request handling
-- Elite-tier UI with glassmorphism effects and smooth animations
-
-### [📊 Real-Time Data Streaming Pipeline](https://github.com/samirkhann/data-streaming-pipeline)
-
-> Enterprise-grade event processing infrastructure
-
-**Stack:** Apache Kafka, Spark, Airflow, Docker, Cassandra, PostgreSQL
-
-- Processes **50,000+ events/second** with exactly-once semantics
-- Sub-500ms end-to-end latency with fault tolerance
-- Orchestrates 10+ heterogeneous data sources via Airflow DAGs
-- Containerized microservices with Docker for horizontal scaling
-
-### [💬 Collaborative Document Editor](https://github.com/samirkhann/collab-editor) 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://google-docs-clone-ivory.vercel.app)
-
-> Real-time collaborative editing platform with conflict resolution
-
-**Stack:** Next.js, WebSockets, PostgreSQL JSONB, Redis Pub/Sub
-
-- Supports 20+ concurrent users with <200ms synchronization latency
-- Operational Transformation algorithms for conflict-free editing
-- Real-time cursor tracking and presence awareness
-- Rich text formatting with version history
-
-### [🔗 Blockchain E-Voting System](https://github.com/samirkhann/blockchain-evoting)
-
-> Decentralized voting application with cryptographic privacy
-
-**Stack:** Solidity, Ethereum, Web3.js
-
-- **Published research** in International Scientific Journal of Engineering & Management
-- Commit-reveal voting scheme for ballot secrecy
-- 30% gas optimization through struct packing (reduced costs to $2/vote)
-- Smart contract security patterns and access control
-
-### [💬 Real-Time Chat & Community Platform](https://github.com/samirkhann/realtime-chat) 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://discord-clone-production-0af1.up.railway.app)
-
-> Full-stack messaging platform with voice/video capabilities
-
-**Stack:** Next.js, Socket.IO, WebRTC, Prisma, Redis
-
-- Supports 100+ concurrent users with text/voice/video communication
-- WebRTC peer-to-peer calls with fallback mechanisms
-- Redis message queuing and S3 file uploads
-- Role-based permissions and channel management
-
----
-
-## 📈 GitHub Stats
+## 🛠 Arsenal & Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samirkhann&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samirkhann&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhann&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" width="49%" />
+| **Core** | **Languages** | **Cloud & DevOps** | **Data & ML** |
+| :---: | :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=6DB33F) | ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=FF9900) | ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white) |
+| ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB) | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED) | ![Spark](https://img.shields.io/badge/Apache_Spark-000000?style=flat-square&logo=apache-spark&logoColor=E25A1C) |
+| ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB) | ![TS](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
+| ![Node](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933) | ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00599C) | ![K8s](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5) | ![Postgres](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1) |
 
 </div>
 
 ---
 
-## 🏆 Professional Experience
+## 💎 Featured Engineering
 
-### 💼 Software Engineer @ Wintel Systems
-**Sep 2023 - Dec 2024** | Remote
+### 1. [Cloudflare AI Study Assistant](https://github.com/samirkhann/cloudflare-ai-study-assistant)
+> *Edge-native AI platform built on Cloudflare Workers.*
+* **Tech:** Workers AI (Llama 3.3), Durable Objects, Next.js.
+* Deployed globally across **330+ cities** for sub-50ms response latency.
+* Implemented persistent conversation memory using Cloudflare Durable Objects.
 
-- Built and deployed **microservices architecture** with Spring Boot, React, and AWS
-- Optimized **PostgreSQL/MySQL** schemas reducing p95 API latency by **~30%**
-- Implemented **CI/CD pipelines** with Docker, Bitbucket, and automated deployments
-- Developed **RESTful APIs** handling high-throughput production traffic
-- Collaborated in **Agile/Scrum** teams conducting code reviews
+### 2. [Real-Time Data Streaming Pipeline](https://github.com/samirkhann/data-streaming-pipeline)
+> [cite_start]*High-throughput event processing infrastructure[cite: 32].*
+* [cite_start]**Tech:** Kafka, Spark, Airflow, Docker, Cassandra, AWS[cite: 32].
+* [cite_start]Processed **50k+ events/sec** with exactly-once semantics and <500ms latency[cite: 33].
+* [cite_start]Containerized 8 microservices achieving single-command deployment[cite: 35].
 
-### 👨‍💻 Software Engineering Intern @ Krazy Fox
-**Jan 2023 - Aug 2023** | Remote
+### 3. [Consilium AI - Multi-Model Orchestration](https://github.com/samirkhann/consilium-ai)
+> *Premium interface coordinating 4 frontier AI models.*
+* **Tech:** Next.js, Gemini API, TypeScript.
+* Engineered parallel API orchestration for real-time consensus generation.
+* Designed an elite-tier UI with glassmorphism and smooth motion effects.
 
-- Full-stack development with **Spring Boot** and **React/TypeScript**
-- Database optimization and migration management
-- Test-driven development with **JUnit** and **pytest**
+### 4. [Collaborative Document Editor](https://github.com/samirkhann/collab-editor)
+> [cite_start]*Google Docs alternative with Operational Transformation[cite: 36].*
+* [cite_start]**Tech:** Next.js, WebSockets, Redis, PostgreSQL[cite: 36].
+* [cite_start]Supports **20+ concurrent users** with <200ms sync latency[cite: 37].
+* [cite_start]Implemented conflict-free editing and Redis pub/sub for cursor tracking[cite: 38].
 
----
+### 5. [SaaS AI Support Platform](https://github.com/samirkhann/saas-ai-support)
+> [cite_start]*B2B platform automating enterprise support[cite: 48].*
+* [cite_start]**Tech:** GPT-3.5 API, MongoDB, Stripe, Socket.IO[cite: 48].
+* [cite_start]Achieved **70% auto-resolution rate**, reducing response times from hours to minutes[cite: 49].
+* [cite_start]Implemented multi-tenant isolation and role-based access control[cite: 50, 51].
 
-## 🎓 Education & Certifications
+### 6. [Real-Time Chat & Community Platform](https://github.com/samirkhann/realtime-chat)
+> [cite_start]*Full-stack messaging system with voice/video[cite: 44].*
+* [cite_start]**Tech:** Next.js, Socket.IO, WebRTC, Prisma[cite: 44].
+* [cite_start]Scaled to **100+ concurrent users** supporting peer-to-peer video calls[cite: 45].
+* [cite_start]Built adaptive WebSocket/polling fallback for network resilience[cite: 47].
 
-### Master of Science in Computer Science
-**Northeastern University** | Boston, MA  
-*Jan 2025 - Dec 2026 (Expected)* | **GPA: 3.77/4.0**
-
-**Relevant Coursework:** Distributed Systems, Machine Learning, Computer Vision, Natural Language Processing, Algorithms
-
-### Bachelor of Engineering in Information Technology  
-**University of Mumbai** | Mumbai, IN  
-*July 2019 - Sep 2023* | **GPA: 3.67/4.0**
-
-### Certifications
-- ☁️ **AWS Certified Solutions Architect**
-- 🤖 **Machine Learning Specialization** - Stanford University/DeepLearning.AI
-- 📊 **Data Science Specialization** - Johns Hopkins University
-
----
-
-## 📚 Research & Publications
-
-**"Decentralized Blockchain E-Voting"**  
-*International Scientific Journal of Engineering & Management* | April 2023
-
-Research on democratic voting systems using blockchain technology, exploring transparency, ballot privacy, and cryptographic security in electronic voting infrastructure.
+### 7. [Blockchain E-Voting System](https://github.com/samirkhann/blockchain-evoting)
+> [cite_start]*Decentralized voting app with cryptographic privacy[cite: 40].*
+* [cite_start]**Tech:** Ethereum, Solidity, Web3.js[cite: 40].
+* [cite_start]**Published Research:** International Scientific Journal of Engineering & Management[cite: 43].
+* [cite_start]Optimized gas consumption by **30%** via struct packing techniques[cite: 42].
 
 ---
 
-## 🛠️ What I Build
+## ♟️ Professional Experience
+
+**Software Engineer | [cite_start]Wintel Systems** _(Sep 2023 - Dec 2024)_ [cite: 15, 17]
+* Developed Java Spring Boot microservices, replacing manual workflows with self-serve interfaces[cite: 18].
+* [cite_start]Optimized MySQL/PostgreSQL schemas, decreasing p95 API latency by **30%** under peak load[cite: 19].
+* [cite_start]Implemented zero-downtime CI/CD deployments using Docker and AWS (EC2, RDS, Lambda)[cite: 20, 21].
+
+**Software Engineering Intern | [cite_start]Krazy Fox** _(Jan 2023 - Aug 2023)_ [cite: 24, 25]
+* [cite_start]Decoupled persistence from API contracts using DTO patterns in Spring Boot[cite: 27].
+* [cite_start]Integrated React Query for server state management and optimized SQL with indexes[cite: 28, 29].
+
+---
+
+## 💻 Terminal
 ```python
-class SoftwareEngineer:
+class SamirKhan(SoftwareEngineer):
     def __init__(self):
-        self.name = "Samir Khan"
-        self.role = "Software Engineer & CS Master's Student"
         self.location = "Boston, MA"
-        
-    def skills(self):
+        self.education = "MS CS @ Northeastern University"
+        self.focus = ["Distributed Systems", "AI Infrastructure", "High-Performance Computing"]
+
+    def get_status(self):
         return {
-            "backend": ["Spring Boot", "FastAPI", "Django", "Microservices"],
-            "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-            "data_ml": ["TensorFlow", "PyTorch", "Kafka", "Spark", "Airflow"],
-            "cloud": ["AWS (Certified)", "Docker", "Kubernetes", "Cloudflare"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "Cassandra"]
+            "looking_for": "Summer 2026 Internships",
+            "current_work": "Building Cloudflare Edge AI Agents",
+            "coffee_level": "██████████ 100%"
         }
-    
-    def current_focus(self):
-        return [
-            "🔨 Building AI applications at the edge (Cloudflare Workers AI)",
-            "🧠 Multi-model LLM orchestration and agentic systems",
-            "📡 Distributed systems with consensus algorithms",
-            "☁️ Cloud-native architecture and serverless platforms"
-        ]
-    
-    def seeking(self):
-        return {
-            "role": "Software Engineering Internships",
-            "timeline": "Summer 2026",
-            "interests": ["FAANG", "AI Labs", "High-Growth Startups"],
-            "authorization": "F-1 CPT/OPT eligible"
-        }
-```
-
----
-
-## 🎯 Current Focus
-
-- 🔨 Building **edge-native AI applications** with Cloudflare Workers AI and Durable Objects
-- 🧠 Researching **multi-model orchestration** patterns for LLM systems
-- 📡 Implementing **distributed consensus algorithms** (Raft, Paxos, Primary-Backup)
-- ☁️ Exploring **cloud-native architectures** and serverless computing patterns
-
----
-
-## 💡 Ask Me About
-
-- Building **fault-tolerant distributed systems** with replication and consensus
-- Optimizing **database performance** at scale (reduced production latency 30%)
-- **Real-time applications** with WebSockets and event-driven architecture
-- **AI/ML deployment** and LLM integration patterns
-- **Edge computing** and serverless platforms (Cloudflare, AWS Lambda)
-- Implementing **microservices** with Spring Boot and event-driven messaging
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-### 💼 Open to Software Engineering Opportunities for Summer 2026
-
-**Work Authorization:** F-1 Student (CPT/OPT eligible)  
-**Location:** Boston, MA | Willing to relocate anywhere in the United States  
-**Availability:** Summer 2026 (May - August) for internships
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samirkhann)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan.mohameds@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge)](https://samirkhan.portfolio)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ *Building systems that scale. Optimizing for performance. Shipping to production.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=samirkhann&color=orange&style=flat-square)
-
-</div>
