@@ -1,6 +1,6 @@
 <div align="center">
 
-## Samir Khan
+# 👋 Hi, I'm Samir Khan
 
 ### Software Engineer | CS Master's @ Northeastern | Building AI & Distributed Systems
 
