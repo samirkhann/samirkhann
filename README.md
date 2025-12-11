@@ -4,9 +4,9 @@
 
 ### Software Engineer | CS Master's @ Northeastern | Building AI & Distributed Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samirkhann-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samirkhann)
-[![Portfolio](https://img.shields.io/badge/Portfolio-samirkhan.portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samirkhann.github.io)
-[![Email](https://img.shields.io/badge/Email-khan.mohameds@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan.mohameds@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-363636?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/samirkhann)
+[![Portfolio](https://img.shields.io/badge/Portfolio-363636?style=for-the-badge&logo=google-chrome&logoColor=FF6B6B)](https://samirkhann.github.io)
+[![Email](https://img.shields.io/badge/Email-363636?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:khan.mohameds@northeastern.edu)
 ```
 🔍 Actively seeking Summer 2026 Software Engineering Internships
 📍 Boston, MA • Open to relocation anywhere in the US
