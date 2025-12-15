@@ -241,84 +241,75 @@ Command-line trading simulator featuring an order-matching engine and ACID-compl
 
 
 ---
+---
 
-## 📊 GitHub Analytics
+## Professional Experience
+
+**Wintel Systems Pvt. Ltd.**  
+*Software Engineer* • Sep 2023 – Dec 2024
+
+- Designed and shipped production-grade microservices using Spring Boot, FastAPI, and React/Next.js.
+- Reduced p95 API latency by ~30% through query optimization, indexing strategies, and caching.
+- Deployed containerized services to AWS with zero-downtime CI/CD pipelines.
+- Built and operated ML-powered features using TensorFlow with supporting MLOps infrastructure.
+
+---
+
+**Krazy Fox**  
+*Software Engineering Intern* • Jan 2023 – Aug 2023
+
+- Developed event-driven systems using AWS SQS/SNS for asynchronous processing.
+- Implemented comprehensive automated testing using JUnit, Mockito, and pytest.
+- Built accessible frontend components adhering to WCAG 2.1 standards.
+- Optimized relational queries, eliminating N+1 patterns in production workloads.
+
+---
+
+## Education
+
+**Northeastern University**  
+Master of Science in Computer Science • GPA: 3.77  
+Boston, MA • Jan 2025 – Dec 2026
+
+**University of Mumbai**  
+Bachelor of Engineering in Information Technology • GPA: 3.67  
+Mumbai, India • Jul 2019 – Sep 2023
+
+---
+
+## Honors & Recognition
+
+- AWS Certified Solutions Architect
+- Peer-reviewed publication: *Decentralized Blockchain E-Voting System* (IJSEM)
+- Teaching Assistant — Theory of Computing (Spring 2025)
+- 99.2% final grade in Distributed Systems (CS6650)
+- Built systems serving 50+ enterprise clients
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirkhann&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhann&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samirkhann&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=samirkhann&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9CA3AF&icon_color=9CA3AF&text_color=9CA3AF" width="420" />
 </div>
 
----
-
-## 💼 Professional Experience
-
-**🏢 Wintel Systems PVT LTD** • *Software Engineer* • `Sep 2023 – Dec 2024`
-- Architected full-stack microservices with Spring Boot, FastAPI, and React/Next.js
-- Achieved ~30% reduction in p95 API latency through database optimizations
-- Deployed containerized services to AWS with zero-downtime CI/CD pipelines
-- Built ML-powered features with TensorFlow and MLOps infrastructure
-
-**🦊 Krazy Fox** • *Software Engineering Intern* • `Jan 2023 – Aug 2023`
-- Developed event-driven architecture using AWS SQS/SNS
-- Implemented comprehensive testing with JUnit, Mockito, and pytest
-- Built accessible React components with WCAG 2.1 compliance
-- Optimized database queries eliminating N+1 problems
+<sub>
+Activity shown for reference only. Primary experience is reflected through production systems and deployed projects above.
+</sub>
 
 ---
 
-## 🎓 Education
+## Contact
 
-**🎓 Northeastern University** • *Master of Science in Computer Science* • `GPA: 3.77`  
-📍 Boston, MA • `Jan 2025 – Dec 2026`
-
-**🎓 University of Mumbai** • *Bachelor of Engineering in IT* • `GPA: 3.67`  
-📍 Mumbai, India • `Jul 2019 – Sep 2023`
-
----
-
-## 🏆 Achievements
-
-```yaml
-🥇 AWS Certified Solutions Architect
-📄 Published Research: "Decentralized Blockchain E-Voting System" (IJSEM)
-🎯 Teaching Assistant - Theory of Computing (Spring 2025)
-⚡ 99.2% Grade in Distributed Systems (CS6650)
-🌟 Built systems serving 50+ enterprises
-```
-
----
-
-## 📫 Let's Connect
+I am open to backend, infrastructure, and distributed systems roles, including full-time and internship opportunities.
 
 <div align="center">
 
-### 💡 Open to Full-Time & Internship Opportunities
-
-**Currently seeking Summer 2026 internships in:**
-- 🚀 Full-Stack Development
-- ⚡ Distributed Systems
-- 🤖 AI/ML Infrastructure
-- ☁️ Cloud Architecture
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge)](https://samirkhann.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/samirkhann/)
-[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge)](mailto:khan.mohameds@northeastern.edu)
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### ⭐ From [Mohamed Samir](https://github.com/samirkhann)
-
-*"Building production systems that scale, one commit at a time"* 💻✨
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samirkhann.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001e38?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samirkhann/)
+[![Email](https://img.shields.io/badge/Email-590d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan.mohameds@northeastern.edu)
+[![Resume](https://img.shields.io/badge/Resume-2d2d2d?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/samirkhann/samirkhann/blob/main/SamirKhan_CV.pdf)
 
 </div>
-```
 
 ---
