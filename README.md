@@ -7,6 +7,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samirkhann.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-001e38?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samirkhann/)
 [![Email](https://img.shields.io/badge/Email-590d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan.mohameds@northeastern.edu)
+[![Resume](https://img.shields.io/badge/Resume-2d2d2d?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/samirkhann/samirkhann/blob/main/SamirKhan_CV.pdf)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -14,75 +16,122 @@
 
 ---
 
-## 💫 About Me
+## ⚡ System Architecture & Identity
 
-```typescript
-const mohamed = {
-    location: "Boston, MA 🇺🇸",
-    education: "MS in Computer Science @ Northeastern University",
-    status: "Building production systems • Open to opportunities",
-    focus: ["Distributed Systems", "Full-Stack Development", "AI/ML Infrastructure"],
-    experience: "2+ years building enterprise-grade solutions",
-    achievement: "Published researcher • AWS Certified Solutions Architect"
-};
-```
+<div align="center">
 
-🚀 **Building production systems processing 50K+ events/second with sub-500ms latency**  
-⚡ **Optimized databases cutting API response times by 30%**  
-🌐 **Shipped microservices to AWS and ML platforms serving 50+ enterprises**  
-📝 **Published researcher specializing in distributed systems and blockchain**
+<samp>
+  <h3>🎓 MS in Computer Science @ Northeastern University</h3>
+  <h4>📍 Boston, MA 🇺🇸 &nbsp;•&nbsp; 🏆 AWS Certified Solutions Architect</h4>
+</samp>
+
+<p align="center">
+  <i>"Building production systems that scale, one commit at a time."</i>
+</p>
+
+<br/>
+
+<table align="center" style="border: none; border-collapse: collapse;">
+<tr>
+<td align="left" width="45%" style="border: none;">
+  🚀 <b>High-Frequency Engineering</b>
+  <br/>
+  Processing <code>50K+ events/sec</code> with sub-500ms latency.
+  <br/><br/>
+  ⚡ <b>Database Optimization</b>
+  <br/>
+  Cut API response times by <code>30%</code> via indexing strategies.
+</td>
+
+<td width="5%" style="border: none;"></td>
+
+<td align="left" width="45%" style="border: none;">
+  🌐 <b>Enterprise Scale</b>
+  <br/>
+  Shipped ML microservices serving <code>50+ enterprises</code> on AWS.
+  <br/><br/>
+  📝 <b>Published Researcher</b>
+  <br/>
+  Specializing in Distributed Systems (Raft) & Blockchain Consensus.
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<div align="center">
 
-### **Backend & APIs**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="900">
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/CORE_LANGUAGES-DC143C?style=flat-square&logoColor=white" height="25">
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white">
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<br/><br/>
 
-### **Big Data & Streaming**
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<img src="https://img.shields.io/badge/BACKEND_&_APIS-DC143C?style=flat-square&logoColor=white" height="25">
+<br/><br/>
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white">
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+<br/><br/>
 
-### **AI/ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://img.shields.io/badge/CLOUD_INFRASTRUCTURE-DC143C?style=flat-square&logoColor=white" height="25">
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white">
 
----
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HIGH_VELOCITY_DATA-DC143C?style=flat-square&logoColor=white" height="25">
+<br/><br/>
+<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Spark-000000?style=for-the-badge&logo=apache-spark&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white">
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FRONTEND_UX-DC143C?style=flat-square&logoColor=white" height="25">
+<br/><br/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI_&_INTELLIGENCE-DC143C?style=flat-square&logoColor=white" height="25">
+<br/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white">
+
+<br/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🔥 Featured Projects
 
