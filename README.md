@@ -9,59 +9,25 @@
 [![Email](https://img.shields.io/badge/Email-590d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khan.mohameds@northeastern.edu)
 [![Resume](https://img.shields.io/badge/Resume-2d2d2d?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/samirkhann/samirkhann/blob/main/SamirKhan_CV.pdf)
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
 ---
 
-## ⚡ System Architecture & Identity
+## Engineering Focus
 
-<div align="center">
+I design and ship production-grade systems where scale, latency, and failure modes are real constraints not hypotheticals. My work spans distributed systems, cloud-native infrastructure, and high-throughput data pipelines, with an emphasis on solutions that remain stable under production pressure.
 
-<samp>
-  <h3>🎓 MS in Computer Science @ Northeastern University</h3>
-  <h4>📍 Boston, MA 🇺🇸 &nbsp;•&nbsp; 🏆 AWS Certified Solutions Architect</h4>
-</samp>
+### Selected Impact
+- Designed event-driven pipelines processing **50K+ events per second** with **sub-500ms end-to-end latency**.
+- Improved production database performance through indexing and query optimization, reducing **API response times by ~30%**.
+- Built and deployed AWS-based microservices and ML platforms supporting **50+ enterprise clients**.
+- Authored peer-reviewed research in **distributed systems and blockchain consensus**, connecting theory with practical system design.
 
-<p align="center">
-  <i>"Building production systems that scale, one commit at a time."</i>
-</p>
-
-<br/>
-
-<table align="center" style="border: none; border-collapse: collapse;">
-<tr>
-<td align="left" width="45%" style="border: none;">
-  🚀 <b>High-Frequency Engineering</b>
-  <br/>
-  Processing <code>50K+ events/sec</code> with sub-500ms latency.
-  <br/><br/>
-  ⚡ <b>Database Optimization</b>
-  <br/>
-  Cut API response times by <code>30%</code> via indexing strategies.
-</td>
-
-<td width="5%" style="border: none;"></td>
-
-<td align="left" width="45%" style="border: none;">
-  🌐 <b>Enterprise Scale</b>
-  <br/>
-  Shipped ML microservices serving <code>50+ enterprises</code> on AWS.
-  <br/><br/>
-  📝 <b>Published Researcher</b>
-  <br/>
-  Specializing in Distributed Systems (Raft) & Blockchain Consensus.
-</td>
-</tr>
-</table>
-
-</div>
+### Background
+- Master’s candidate in Computer Science, Northeastern University (Boston, MA)
+- AWS Certified Solutions Architect
+- 1.5+ years shipping enterprise-grade software
+- Open to backend, infrastructure, and distributed systems roles
 
 ---
-
-## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -70,61 +36,61 @@
 <td align="center" width="900">
 
 <br/>
-<img src="https://img.shields.io/badge/CORE_LANGUAGES-DC143C?style=flat-square&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/CORE_LANGUAGES-374151?style=for-the-badge&logoColor=white" height="28">
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Python-1f2933?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-1f2933?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C++-1f2933?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-1f2933?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-1f2933?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-1f2933?style=for-the-badge&logo=kotlin&logoColor=white">
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BACKEND_&_APIS-DC143C?style=flat-square&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/BACKEND_&_APIs-374151?style=for-the-badge&logoColor=white" height="28">
 <br/><br/>
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-111827?style=for-the-badge&logo=graphql&logoColor=white">
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CLOUD_INFRASTRUCTURE-DC143C?style=flat-square&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/CLOUD_&_INFRASTRUCTURE-374151?style=for-the-badge&logoColor=white" height="28">
 <br/><br/>
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-1f2933?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-1f2933?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-1f2933?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-1f2933?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-1f2933?style=for-the-badge&logo=github-actions&logoColor=white">
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HIGH_VELOCITY_DATA-DC143C?style=flat-square&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/HIGH_VELOCITY_DATA-374151?style=for-the-badge&logoColor=white" height="28">
 <br/><br/>
-<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white">
-<img src="https://img.shields.io/badge/Apache_Spark-000000?style=for-the-badge&logo=apache-spark&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Kafka-111827?style=for-the-badge&logo=apache-kafka&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Spark-111827?style=for-the-badge&logo=apache-spark&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge&logo=rabbitmq&logoColor=white">
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FRONTEND_UX-DC143C?style=flat-square&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/FRONTEND_&_UX-374151?style=for-the-badge&logoColor=white" height="28">
 <br/><br/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/React-1f2933?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-1f2933?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-1f2933?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-1f2933?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI_&_INTELLIGENCE-DC143C?style=flat-square&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/AI_&_INTELLIGENCE-374151?style=for-the-badge&logoColor=white" height="28">
 <br/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit_Learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white">
 
 <br/>
 </td>
@@ -133,96 +99,146 @@
 
 </div>
 
-## 🔥 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## Selected Projects
 
-### 🤖 AI Study Assistant
-**Cloudflare Workers AI • Llama 3.3 • Next.js**
+A curated set of systems-focused projects demonstrating work across distributed systems, real-time data processing, cloud infrastructure, and applied AI. Each project emphasizes production constraints, performance trade-offs, and system reliability.
 
-- ⚡ Sub-50ms edge latency
-- 🧠 Persistent conversation memory
-- 🌐 Serverless TypeScript backend
-- 🎨 Production-quality UI
+---
 
-`#CloudflareWorkers` `#EdgeAI` `#Next.js`
+### Distributed & Data-Intensive Systems
 
-</td>
-<td width="50%">
-
-### 💬 Real-Time Chat Platform
-**Next.js • Socket.IO • WebRTC • Prisma**
-
-- 👥 100+ concurrent users
-- 📹 HD video/voice calls
-- 🔄 P2P WebRTC connections
-- 🔐 Role-based permissions
-
-`#WebSockets` `#WebRTC` `#RealTime`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏛️ Distributed Backtesting Engine
+#### Distributed Financial Backtesting Engine
 **C++17 • Raft Consensus • TCP Sockets**
 
-- ⚡ <8s leader failover
-- 🔄 100% checkpoint recovery
-- 📉 84% protocol overhead reduction
-- 🎯 Fault-tolerant 3-node cluster
+Designed and implemented a fault-tolerant financial backtesting engine built on a 3-node Raft cluster. The system guarantees state consistency through leader election and replicated logs, with fast recovery under failure. Implemented a custom binary TCP protocol and least-loaded task scheduling to minimize coordination overhead.
 
-`#DistributedSystems` `#Raft` `#C++`
+**Key Outcomes**
+- <8s leader failover with full state recovery  
+- 84% reduction in protocol overhead  
+- 100% checkpoint recovery accuracy  
 
-</td>
-<td width="50%">
+**[View Code →](https://github.com/samirkhann/distributed-financial-backtesting-engine)**
 
-### 🌊 Real-Time Data Pipeline
-**Kafka • Spark • Airflow • Cassandra**
+---
 
-- 🚀 50K+ events/second
-- ⏱️ <500ms latency
-- 🎯 Exactly-once semantics
-- 🐳 8 containerized microservices
+#### Real-Time Data Processing Pipeline
+**Kafka • Spark Streaming • Airflow • Cassandra**
 
-`#Kafka` `#Spark` `#BigData`
+End-to-end streaming pipeline processing high-volume market data with exactly-once semantics. Orchestrated ingestion from 10+ sources using Airflow DAGs, optimized Spark streaming jobs for low-latency processing, and persisted data across Cassandra and PostgreSQL for time-series and analytics workloads.
 
-</td>
-</tr>
+**Key Outcomes**
+- Sustained throughput of 50K+ events/second  
+- Sub-500ms end-to-end processing latency  
+- 8 containerized microservices with single-command deployment  
 
-<tr>
-<td width="50%">
+**[View Code →](https://github.com/samirkhann/data-engineering)**
 
-### 🧠 Multi-Model AI Orchestrator
-**React • Gemini • Claude • GPT-4 • Grok**
+---
 
-- 🔄 Parallel LLM processing
-- 🎯 Consensus algorithms
-- ⚡ Real-time streaming
-- 🔗 Multi-round conversations
+### Cloud-Native & Real-Time Applications
 
-`#AI` `#LLM` `#Orchestration`
+#### AI Study Assistant (Edge-Deployed)
+**Cloudflare Workers AI • Llama 3.3 • Next.js**
 
-</td>
-<td width="50%">
+Edge-native AI assistant deployed on Cloudflare Workers using Llama 3.3 for inference. Designed a serverless TypeScript backend with Durable Objects enabling persistent conversation memory across sessions. Optimized for global latency with compute running at the edge.
 
-### 📝 Collaborative Document Editor
-**Next.js • WebSockets • PostgreSQL • Redis**
+**Key Outcomes**
+- Sub-50ms edge inference latency  
+- Persistent conversational state  
+- Fully serverless architecture  
 
-- 👥 20+ concurrent users
-- ⚡ <200ms sync latency
-- 🔄 Operational Transformation
-- 💯 100% conflict-free editing
+**[Live Demo →](https://main.ai-study-assistant.pages.dev)** • **[Code →](https://github.com/samirkhann/cloudflare-ai-study-assistant)**
 
-`#RealTime` `#Collaboration` `#OT`
+---
 
-</td>
-</tr>
-</table>
+#### Real-Time Chat & Collaboration Platform
+**Next.js • Socket.IO • WebRTC • Prisma • PostgreSQL**
+
+Built an enterprise-grade real-time communication platform supporting messaging, voice, and video. Implemented peer-to-peer WebRTC connections with Redis-backed signaling, adaptive WebSocket fallback, and role-based access control. Designed for stability under concurrent load.
+
+**Key Outcomes**
+- 100+ concurrent active users  
+- Sub-200ms message delivery  
+- HD video and voice via P2P WebRTC  
+
+**[Live Demo →](https://discord-clone-production-0af1.up.railway.app)** • **[Code →](https://github.com/samirkhann/real-time-chat-community-platform)**
+
+---
+
+#### Collaborative Document Editor
+**Next.js • WebSockets • Redis • PostgreSQL**
+
+Real-time collaborative document editor inspired by Google Docs. Implemented Operational Transformation algorithms to guarantee conflict-free edits under concurrent access. Redis pub/sub powers cursor synchronization, while PostgreSQL JSONB stores versioned deltas.
+
+**Key Outcomes**
+- 20+ concurrent editors  
+- Sub-200ms synchronization latency  
+- 100% conflict-free editing  
+
+**[Live Demo →](https://google-docs-clone-ivory.vercel.app)** • **[Code →](https://github.com/samirkhann/collaborative-document-editor)**
+
+---
+
+### Applied AI & Specialized Systems
+
+#### Consilium AI — Multi-Model Orchestration
+**React • Next.js • Gemini API • TypeScript**
+
+Designed a multi-model AI orchestration layer coordinating parallel requests across Gemini, Claude, GPT-4, and Grok. Implemented consensus-based response aggregation, fault handling, and real-time streaming for interactive use.
+
+**Key Outcomes**
+- Parallel inference across 4 LLM providers  
+- Real-time response streaming  
+- Consensus-based output selection  
+
+**[Live Demo →](https://consilium-ai.vercel.app)** • **[Code →](https://github.com/samirkhann/consilium-ai)**
+
+---
+
+#### SaaS AI Support Platform
+**GPT-4 • MongoDB • Stripe • Socket.IO**
+
+Multi-tenant B2B AI support platform integrating GPT-4 to automate customer support workflows. Designed tenant isolation, real-time chat, and subscription billing with Stripe. Deployed across multiple enterprise clients.
+
+**Key Outcomes**
+- 70% automated issue resolution rate  
+- Reduced response time from hours to <2 minutes  
+- Serving 50+ enterprise customers  
+
+**[View Code →](https://github.com/samirkhann/saas-ai-support-platform)**
+
+---
+
+#### Blockchain-Based E-Voting System
+**Ethereum • Solidity • Web3.js**
+
+Decentralized electronic voting system using smart contracts and a commit-reveal scheme to preserve ballot privacy. Optimized contract storage and struct layouts to minimize gas costs. Published in a peer-reviewed engineering journal.
+
+**Key Outcomes**
+- 30% gas cost reduction  
+- ~$2 per vote execution cost  
+- Published in IJSEM  
+
+**[View Code →](https://github.com/samirkhann/blockchain-e-voting)**
+
+---
+
+<details>
+<summary><b>Additional Projects</b></summary>
+
+<br>
+
+**Java Calendar Application**  
+Desktop calendar built with MVC architecture, timezone support, and Google Calendar import/export. Test-driven development with full coverage.  
+**[View Code →](https://github.com/samirkhann/calendar)**
+
+**Trading Simulation System**  
+Command-line trading simulator featuring an order-matching engine and ACID-compliant MySQL backend.  
+**[View Code →](https://github.com/samirkhann/trading-order-simulator)**
+
+</details>
+
 
 ---
 
